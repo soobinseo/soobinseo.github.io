@@ -48,9 +48,9 @@ url: "https://soobinseo.github.io" # the base hostname & protocol for your site
 twitter_url:
 facebook_url:
 googleplus_url:
-instagram_url:
+instagram_url: https://instagram.com/soobeeworld
 linkedin_url:
-github_url:
+github_url: https://github.com/soobinseo
 stackoverflow_url:
 pinterest_url:
 slack_url:
