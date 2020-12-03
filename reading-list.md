@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: 생각정리
+subtitle: abcd
 layout: "page"
 icon: fa-book
 order: 3
